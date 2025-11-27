@@ -1,0 +1,6 @@
+outs:
+- md5: 162813fcfbef41305b36e76359c17ad6.dir
+  size: 2204256124
+  nfiles: 10
+  hash: md5
+  path: tinyllama

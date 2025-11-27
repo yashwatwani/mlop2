@@ -1,0 +1,5 @@
+outs:
+- md5: c8fc052254a4f6626a2e9bb89a9cacb3
+  size: 3293782
+  hash: md5
+  path: politeness_adapters.npz
